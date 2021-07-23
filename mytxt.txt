@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 hi
 Deepak
-=======
-hi 
-new change
->>>>>>> 4614fffd0c73c5801353f6686dfdc0cd0b21838d
+
